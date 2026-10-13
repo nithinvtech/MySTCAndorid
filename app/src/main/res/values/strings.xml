@@ -1,0 +1,19 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">mystc</string>
+    <string name="get_started">get started</string>
+    <string name="language_label">العربية</string>
+    <string name="stc_logo_description">stc logo</string>
+    <string name="welcome_illustration_description">Welcome illustration</string>
+    <string name="welcome_title">welcome to mystc BH</string>
+    <string name="welcome_subtitle">manage your lines and get exclusive offers wherever you go.</string>
+    <string name="log_in">log in</string>
+    <string name="login_heading">login to your account</string>
+    <string name="line_number">line number</string>
+    <string name="line_number_placeholder">enter your line number</string>
+    <string name="password">password</string>
+    <string name="password_placeholder">enter your password</string>
+    <string name="show_password">Show</string>
+    <string name="hide_password">Hide</string>
+    <string name="forgot_password">forgot your password?</string>
+</resources>
