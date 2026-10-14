@@ -1,6 +1,6 @@
 <!-- res/values/strings.xml -->
 <resources>
-    <string name="app_name">mystc</string>
+    <string name="app_name">MySTCAndroid</string>
     <string name="get_started">get started</string>
     <string name="language_label">العربية</string>
     <string name="stc_logo_description">stc logo</string>
@@ -16,4 +16,8 @@
     <string name="show_password">Show</string>
     <string name="hide_password">Hide</string>
     <string name="forgot_password">forgot your password?</string>
+    <string name="go_back">Go back</string>
+    <string name="line_number_required">Enter your line number</string>
+    <string name="line_number_invalid">Enter a valid 8-digit line number</string>
+    <string name="password_required">Enter your password</string>
 </resources>
